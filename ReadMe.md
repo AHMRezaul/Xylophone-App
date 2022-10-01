@@ -5,7 +5,8 @@
 
 <h4 align="center">
 A mobile application developed using flutter technologies.
-APK installation link: https://github.com/AHMRezaul/Xylophone-App/blob/main/xylophone/splits/base-arm64_v8a.apk
+
+APK installation link: https://github.com/AHMRezaul/Xylophone-App/blob/main/xylophone-universal/universal.apk
 </h4>
 
 ## Overview
@@ -23,19 +24,21 @@ The following tools and software were used to develop the application:
 
 ### Technical details:
 Flutter version: 2.8.1
+
 Dart SDK version: 2.1.5
+
 AudioPlayers (Dart package): 0.17.4
 
 ## Installation:
 To run the project, clone the repository and open it using **Android Studio**.
 Open the **pubspec.yaml** file and run the following command.
 ```
-Pub get
+flutter pub get
 ```
 This will download all the dependencies and packages required for the project. 
 Next, run the emulator and finally build and run the application on the emulator.
 
-To install the application, download from the link: https://github.com/AHMRezaul/Xylophone-App/blob/main/xylophone/splits/base-arm64_v8a.apk
+To install the application, download from the link: https://github.com/AHMRezaul/Xylophone-App/blob/main/xylophone-universal/universal.apk
 
 ## App Preview:
 Xylophone:
